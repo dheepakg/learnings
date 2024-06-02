@@ -1,6 +1,16 @@
-# Big 0 Notation
+# Big O Notation
 
-## Sub topic 1
+- A notation that tells us how fast an algortihm is.
+- It's a measures the fastness of algorithm in terms of operations (not in seconds).
+- Big O denotes worst case run time.
 
-## Sub topic 2
+Big O notation: O(n) -> Here _n_ stands for the number of  operations.
 
+
+| Notation   | Example                   |
+| ---------- | ------------------------- |
+| O(log n)   | Binary Search             |
+| O(n)       | Simple search             |
+| O(n.log n) | Quick Sort                |
+| O(n2)      | Selection sort            |
+| O(n!)      | The traveling salesperson |
