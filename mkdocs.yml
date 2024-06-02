@@ -85,6 +85,6 @@ nav:
   - About: about.md
   - Computer Science:
       - Grokking Algorithm:
-          - Why Algorithms?: "com-sci/algorithms/why.md"
+          - About the book?: "com-sci/algorithms/about.md"
           - Big O Notation: "com-sci/algorithms/big-o-notation.md"
           - Binary Search: "com-sci/algorithms/binary-search.md"
