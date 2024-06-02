@@ -83,7 +83,8 @@ extra_javascript:
 nav:
   - Home: index.md
   - About: about.md
-  - Algorithms:
-      - Why Algorithms?: "algorithms/why.md"
-      - Big O Notation: "algorithms/big-o-notation.md"
-      - Binary Search: "algorithms/binary-search.md"
+  - Computer Science:
+      - Grokking Algorithm:
+          - Why Algorithms?: "com-sci/algorithms/why.md"
+          - Big O Notation: "com-sci/algorithms/big-o-notation.md"
+          - Binary Search: "com-sci/algorithms/binary-search.md"
