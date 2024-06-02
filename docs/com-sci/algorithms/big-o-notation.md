@@ -6,6 +6,7 @@
 
 Big O notation: O(n) -> Here _n_ stands for the number of  operations.
 
+## Example
 
 | Notation   | Example                   |
 | ---------- | ------------------------- |
