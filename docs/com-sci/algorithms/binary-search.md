@@ -31,7 +31,7 @@ For an array of 100 elements, we can search for an element in 7 steps (worst-cas
 
 Big O notation: `log(n)`
 
-Let's say the number of elements are 1000.
+Let's say the number of elements are 1000. It takes 10 operations to complete the search.
 
 ![Searching an element from array of 1000 elements](binary-search.drawio.png)
 
